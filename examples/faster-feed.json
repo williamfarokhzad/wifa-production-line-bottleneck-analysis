@@ -1,0 +1,22 @@
+{
+  "seconds": 120,
+  "stations": [
+    [
+      "Feed",
+      3
+    ],
+    [
+      "Assemble",
+      8
+    ],
+    [
+      "Inspect",
+      6
+    ]
+  ],
+  "buffers": [
+    1,
+    1
+  ],
+  "pauses": []
+}
